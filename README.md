@@ -146,7 +146,7 @@ Passionate Undergraduate Full-Stack Software Engineer 💻💖
 ###
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/disura_aberathna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+  <a href="https://buymeacoffee.com/thenuwari_savindya"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </div>
 
 ###
